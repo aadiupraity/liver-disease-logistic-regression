@@ -16,3 +16,9 @@ The data consists of 583 patient records from the North-East region of Andhra Pr
 - **Recall**: 93.9%
 
 The high recall indicates the model is highly sensitive to disease, making it a potentially useful screening tool in a clinical environment.
+
+## Project Structure
+```text
+├── liver-disease-prediction.ipynb   # Main analysis notebook
+├── data/                 # Folder the containing CSV file
+└── README.md             # Project documentation
